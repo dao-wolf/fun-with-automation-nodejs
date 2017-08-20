@@ -4,6 +4,8 @@ Web test automation example project using JavaScript, NodeJS, Mocha, Chai, Selen
 ## Using NodeJS v8+
 This project uses NodeJS v8+ because it supports out of the box async/await which makes the code cleaner to read and write.
 
+It's recommended to use Node Version Manager incase you would like the freedom of switching between different node version.
+
 ## Setup Yarn - dependency manager
 
 To [install yarn](https://yarnpkg.com/lang/en/docs/install/) use [Homebrew](https://brew.sh/)
