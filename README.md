@@ -4,7 +4,7 @@ Web test automation example project using JavaScript, NodeJS, Mocha, Chai, Selen
 ## Using NodeJS v8+
 This project uses NodeJS v8+ because it supports out of the box async/await which makes the code cleaner to read and write.
 
-It's recommended to use Node Version Manager [nvm](https://github.com/creationix/nvm/blob/master/README.md) incase you would like the freedom of switching between different node versions.
+It's recommended to use Node Version Manager [nvm](https://github.com/creationix/nvm/blob/master/README.md) incase you need to switch between different node versions - which you may if you're running e.g. main application in one version and your automated test suite in another.
 
 ## Setup Yarn - dependency manager
 
