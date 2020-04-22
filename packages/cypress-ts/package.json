@@ -1,0 +1,9 @@
+{
+  "name": "fwa-cypress-ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {}
+}

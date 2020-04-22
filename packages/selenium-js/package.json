@@ -1,6 +1,7 @@
 {
-  "name": "selenium-js",
+  "name": "fwa-selenium-js",
   "version": "1.0.0",
+  "description": "",
   "scripts": {
     "test": "mocha --opts ./ui-checks/mocha.opts 'ui-checks/**/*.spec.js'"
   },

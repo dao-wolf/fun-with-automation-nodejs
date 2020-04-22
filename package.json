@@ -1,15 +1,15 @@
 {
   "name": "fun-with-automation-nodejs",
   "version": "1.0.0",
-  "description": "Multiple basic solutions for automating ui checking with nodejs and other technologies",
+  "description": "Collection of basic solutions for automating ui checking with nodejs and other technologies",
   "private": true,
   "workspaces": [
-    "wdio-js",
-    "wdio-ts",
-    "selenium-js",
-    "selenium-ts",
-    "cypress-js",
-    "cypress-ts"
+    "fwa-wdio-js",
+    "fwa-wdio-ts",
+    "fwa-selenium-js",
+    "fwa-selenium-ts",
+    "fwa-cypress-js",
+    "fwa-cypress-ts"
   ],
   "scripts": {},
   "main": "",
